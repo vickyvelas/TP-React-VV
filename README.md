@@ -4,5 +4,5 @@ Para este TP estudiamos las listas de videos. Siguiendo la lista se realizó est
 
 ## Vercel
 
-Utilicé Vercel para hacer el deploy de la aplicacion, el link es: https://desarrollo-react.vercel.app/
+Utilicé Vercel para hacer el deploy de la aplicacion, el link es: react-vv.vercel.app
 
